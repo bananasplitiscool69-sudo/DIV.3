@@ -1,1 +1,3 @@
-# DIV.3
+# DIV 3
+- OVERSEER
+- NO TEAMS YET
